@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgnatiusGL
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning UE5
 - 💞️ I’m looking to collaborate on Java Project
 - 📫 How to reach me ignatiusgl@foxmail.com
 
